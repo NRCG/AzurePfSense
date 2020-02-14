@@ -81,7 +81,7 @@
             "metadata": {
                 "description": "Path to the repository where the linked templates can be found"
             },
-            "defaultValue": "https://raw.githubusercontent.com/christofvg/AzurePfSense/master/linked/"
+            "defaultValue": "https://raw.githubusercontent.com/NRCG/AzurePfSense/master/linked/"
         },
         "managedDiskStorageType": {
             "type": "string",

@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualNetworkResourceGroup": {
-            "value": "nrcg-vdc-vnet"
+            "value": "nrcg-pfsense-rg"
         },
         "pfSenseResourceGroup": {
-            "value": "nrcg-firewalls-rg"
+            "value": "nrcg-pfsense-rg"
         },
         "managementVmResourceGroup": {
-            "value": "nrcg-firewall-management-rg"
+            "value": "nrcg-pfsense-rg"
         },
         "location": {
-            "value": "West Europe"
+            "value": "Australia East"
         },
         "vNetName": {
-            "value": "nrcg-vdc-vnet"
+            "value": "nrcg-pfsense-vnet"
         },
         "vNetAddressPrefix": {
             "value": "10.0.0.0/24"
